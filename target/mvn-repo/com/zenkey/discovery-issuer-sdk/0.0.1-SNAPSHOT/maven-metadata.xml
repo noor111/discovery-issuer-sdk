@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.zenkey</groupId>
+  <artifactId>discovery-issuer-sdk</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210715.172027</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210715172027</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20210715.172027-1</value>
+        <updated>20210715172027</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20210715.172027-1</value>
+        <updated>20210715172027</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
