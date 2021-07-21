@@ -11,6 +11,7 @@
     <groupId>com.zenkey</groupId>
     <artifactId>discovery-issuer-sdk</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>discovery-issuer-sdk</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -61,5 +62,13 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub noor111 Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/noor111/discovery-issuer-sdk</url>
+        </repository>
+    </distributionManagement>
 
 </project>
